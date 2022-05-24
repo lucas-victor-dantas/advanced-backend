@@ -1,0 +1,6 @@
+{
+    "hostname": "<sandbox_url>",
+    "username": "<username>",
+    "password": "<password>",
+    "version": "<version>"
+}
